@@ -1,4 +1,4 @@
 eployment:
   tasks:
-    - export DEPLOYPATH=/home/mysp3/repositories/chatgpt
+    - export DEPLOYPATH=/home/mysp3/public_html/chatgpt1
     - /bin/cp -R images $DEPLOYPATH
